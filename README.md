@@ -4,7 +4,7 @@
 
 **🏠welcome to my home page**
 
-- 🔭 I’m currently working on ***bug hunting, tools developing, playing CTFs, programming(because I love it)***
+- 🔭 I’m currently working on ***bug hunting, tools developing, playing CTFs, programming(Because I like to create new things)***
 - 📖 I’m currently learning ***web application penetration testing and web application developing***
 
 ## [💻My Favorite Techs:](https://github.com/rjsoheil#-tech-stack)
