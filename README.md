@@ -15,6 +15,6 @@
 
 
 ##  [📨 Contact with me:](https://github.com/rjsoheil#social-me)
-[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/thesohii)[
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)[
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soheilraj7@gmail.com)
 [     ![](https://camo.githubusercontent.com/b7267933c294e6861e74077fcb20ffc2d15477584c4a97f427eb40c2fced0502/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d776869746526636f6c6f723d626c61636b)](https://instagram.com/s0heilrj)
