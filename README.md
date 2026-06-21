@@ -106,5 +106,5 @@ Currently, I'm also expanding my skills toward **Red Teaming**, with interest in
 ---
 
 <p align="center">
-  <b>Break things. Understand them. Build better tools.</b>
+  <b>Break things. Understand them. Build better.</b>
 </p>
