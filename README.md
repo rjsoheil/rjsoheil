@@ -8,11 +8,8 @@
   <a href="mailto:soheilraj7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-soheilraj7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/s0heilrj">
-    <img src="https://img.shields.io/badge/Instagram-s0heilrj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://www.linkedin.com/in/soheil-rajaei-1b0805243/">
+    <img src="https://img.shields.io/badge/LinkedIn-Soheil%20Rajaei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -109,19 +106,6 @@ Some things I like building:
 
 ---
 
-## Current Learning Path
-
-```mermaid
-flowchart LR
-    A["Web & API Pentesting"] --> B["Bug Hunting"]
-    B --> C["Security Tool Development"]
-    C --> D["Red Team Learning"]
-    D --> E["Adversary Simulation"]
-    D --> F["Offensive Automation"]
-```
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -135,16 +119,22 @@ flowchart LR
 
 ---
 
-## Featured Work
+## Contact
 
-### APIReaper
+<p align="left">
+  <a href="mailto:soheilraj7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-soheilraj7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/rjsoheil">
+    <img src="https://img.shields.io/badge/GitHub-rjsoheil-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/soheil-rajaei-1b0805243/">
+    <img src="https://img.shields.io/badge/LinkedIn-Soheil%20Rajaei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-APIReaper is a Burp Suite extension for importing API endpoint collections and turning them into editable HTTP requests for security testing.
+---
 
-Key features:
-
-- Import Postman, Swagger/OpenAPI, HAR, Insomnia, and JSON endpoint lists
-- Editable request workspace
-- Token profiles for testing different auth contexts
-- Filters by method, endpoint name, body parameters, and modified requests
-- Pretty/minify JSON body tools
+<p align="center">
+  <b>Break things. Understand them. Build better tools.</b>
+</p>
