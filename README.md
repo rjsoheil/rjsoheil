@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a security-focused developer and penetration tester with **4 years of experience** in bug hunting, web application security testing, API security, and building practical security tools.
+I'm a developer and penetration tester with **4 years of experience** in bug hunting, web application security testing, API security, and building practical security tools.
 
 My main focus is finding real-world vulnerabilities, understanding how applications break, and creating tools that make offensive security workflows faster, cleaner, and more repeatable.
 
@@ -28,26 +28,24 @@ Currently, I'm also expanding my skills toward **Red Teaming**, with interest in
 ## Profile Snapshot
 
 ```text
-+--------------------------------------------------------------+
-|                         Soheil Rajaei                         |
-+--------------------------------------------------------------+
-| Role          | Bug Hunter / Web & API Pentester              |
-| Experience    | 4+ years in security testing                  |
-| Build Focus   | Security tools, automation, API testing tools |
-| Current Path  | Red Team learning and offensive research      |
-| Mindset       | Break, understand, automate, improve          |
-+--------------------------------------------------------------+
++-----------------------------------------------------------------+
+|                           Soheil Rajaei                         |
++-----------------------------------------------------------------+
+| Role          | Bug Hunter / Web & API Pentester                |
+| Experience    | 4+ years in security testing                    |
+| Build Focus   | Pentesting tools, automation, API testing tools |
+| Current Path  | Red Team learning and offensive research        |
+| Mindset       | Break, understand, automate, improve            |
++-----------------------------------------------------------------+
 ```
 
 ---
 
 ## What I Do
 
-- Bug hunting on real-world web applications and APIs
 - Web application penetration testing
 - API security testing and endpoint analysis
-- Security tool development for Burp Suite and testing workflows
-- CTF practice and vulnerability research
+- Penetration Testing tools development
 - Web development and backend programming
 - Learning Red Team tradecraft and offensive security operations
 
@@ -63,21 +61,6 @@ Currently, I'm also expanding my skills toward **Red Teaming**, with interest in
   <img src="https://img.shields.io/badge/Security%20Tooling-5E5CE6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Red%20Team%20Learning-B00020?style=for-the-badge" />
 </p>
-
----
-
-## Tooling & Development
-
-I enjoy building tools because good tooling turns repeated manual work into a faster and more reliable workflow.
-
-Some things I like building:
-
-- Burp Suite extensions
-- API testing helpers
-- Recon and automation scripts
-- Request/response analysis utilities
-- Developer-friendly security tools
-- Small workflow tools that solve annoying testing problems
 
 ---
 
