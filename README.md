@@ -118,19 +118,6 @@ Some things I like building:
 </p>
 
 ---
-
-## Contact
-
-<p align="left">
-  <a href="mailto:soheilraj7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-soheilraj7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/rjsoheil">
-    <img src="https://img.shields.io/badge/GitHub-rjsoheil-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/soheil-rajaei-1b0805243/">
-    <img src="https://img.shields.io/badge/LinkedIn-Soheil%20Rajaei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 ---
